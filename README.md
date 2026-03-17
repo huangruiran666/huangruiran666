@@ -1,38 +1,42 @@
 # 👋 Hi, I'm Huang Ruiran (@huangruiran666)
 
-An AI-focused Software Engineer & Quant Developer specializing in quantitative research tools, market-intelligence workflows, and robust data systems.
+**AI-focused Software Engineer & Quant Developer** specializing in high-performance systems, market-intelligence workflows, and multi-language software architecture.
 
 ---
 
-### 🚀 What I Do
-- **Quantitative Trading & Research:** Building desktop-first and cloud-ready AI platforms for A-share and multi-market analysis.
-- **Data Engineering & ETL:** Designing compact, scalable pipelines for alternative data and feature engineering using Python, pandas, and scikit-learn.
-- **AI Integration:** Integrating LLMs (Azure OpenAI, GCP) into trading workflows to automate signal collection and report generation.
+### 🚀 Technical Focus
+- **AI & Quant Trading:** Developing production-ready engines and signal collectors (Azure OpenAI, GCP).
+- **System & Polyglot Programming:** Building core logic in **C/C++** with **Python** business layers and **Swift** native interfaces.
+- **Data Engineering:** High-performance ETL pipelines for financial analytics and feature engineering.
 
-### 🛠️ Tech Stack
-- **Languages:** Python, C++, SQL, Bash
-- **Data Science & ML:** Pandas, NumPy, Scikit-Learn, LightGBM
-- **Frameworks:** Flask, Tkinter, Pytest
-- **Cloud & DevOps:** GCP, Azure OpenAI, GitHub Actions, Docker
-
----
-
-### 📊 GitHub Stats
-![Huang Ruiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=huangruiran666&show_icons=true&theme=radium)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huangruiran666&layout=compact&theme=radium)
+### 🛠️ Tech Stack & Language Matrix
+| Layer | Tech Stack |
+|-------|------------|
+| **Languages** | `Python`, `C`, `C++`, `Swift`, `SQL`, `Bash` |
+| **Data & AI** | `Pandas`, `Scikit-Learn`, `LightGBM`, `PyTorch`, `LLM Integration` |
+| **Frontend/Desktop** | `SwiftUI`, `Tkinter`, `Flask` |
+| **Cloud/Infra** | `GCP`, `Azure`, `Docker`, `GitHub Actions` |
 
 ---
 
-### 🏆 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 📈 **[quant-platform-windows](https://github.com/huangruiran666/quant-platform-windows)** | Production-ready AI quant trading platform with multi-strategy engines, Azure OpenAI, and GCP integration. | Python, Flask, Azure, GCP |
-| 🔍 **[TrendRadarAI](https://github.com/huangruiran666/TrendRadarAI)** | Market-intelligence workstation for collecting signals and generating daily reports automatically. | Python, AI, Data Analysis |
-| 🧬 **[analysis-system](https://github.com/huangruiran666/analysis-system)** | Alternative data ETL framework for financial analytics and machine learning feature pipelines. | Python, Pandas, Scikit-learn |
-| 🧮 **[quant](https://github.com/huangruiran666/quant)** | Quantitative trading analysis system for Chinese A-shares with technical and ML-based signals. | Python, LightGBM |
-| 📚 **[library](https://github.com/huangruiran666/library)** | C++ command-line library management system with bilingual Chinese and English support. | C++ |
+### 📊 GitHub Activity
+![Huang Ruiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=huangruiran666&show_icons=true&theme=radium&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huangruiran666&layout=compact&theme=radium&hide=html,css)
 
 ---
 
-*Currently focused on making my open-source projects highly professional, scalable, and easy to deploy.*
+### 🏆 Featured Repositories
+
+#### 🛠️ System & Polyglot (The Hardcore Stuff)
+- **[DevMemo](https://github.com/huangruiran666/DevMemo)**: A polyglot system (C/SIMD + Python + Swift) for memory management and auditing.
+- **[CarbonDash](https://github.com/huangruiran666/CarbonDash)**: Native macOS system monitor with integrated AI assistant, built using SwiftUI.
+- **[library](https://github.com/huangruiran666/library)**: Professional C++17 bilingual command-line system.
+
+#### 📈 Quant & AI (Intelligence Layer)
+- **[quant-platform-windows](https://github.com/huangruiran666/quant-platform-windows)**: Production-ready AI quant platform with multi-strategy engines and cloud integration.
+- **[TrendRadarAI](https://github.com/huangruiran666/TrendRadarAI)**: Automated market-intelligence workstation for signal collection and report generation.
+- **[analysis-system](https://github.com/huangruiran666/analysis-system)**: Compact ETL & ML pipeline for alternative data analytics.
+
+---
+
+*I'm currently focused on making my systems more portable and bridging the gap between low-level performance and high-level AI logic.*
